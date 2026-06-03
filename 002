@@ -65,3 +65,5 @@ https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/221000
 https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/705160.ts
 #EXTINF:0 type="stream" channelId="-1", S F Bangla1
 https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/705160.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://buddytv.netlify.app/img/no-logo.png", ANANDA TV
+https://tvsen6.aynaott.com/anandatv/index.m3u8
